@@ -4,3 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+arrow-array = "53.3.0"
+arrow-buffer = "53.3.0"
